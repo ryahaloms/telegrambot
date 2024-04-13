@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from Commands import start_command, help_command, custom_command
 from Weather import Weather
 
-TOKEN: str ='7047940965:AAHAB4tg4ZMle8Cu30GrR-IYS1JrMxtGtDU'
+TOKEN: str ='xyz'
 BOT_USERNAME : str = 'live_data_1970_bot'
 IsraWeather = Weather()
 
